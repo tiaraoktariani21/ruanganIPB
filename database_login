@@ -13,7 +13,7 @@ if(isset($_POST['Email'])){
     $uname=$_POST['Email'];
     $Password=$_POST['Password'];
     
-    $sql="select * from loginform where user='".$uname."'AND Pass='".$password."' limit 1";
+    $sql="select * from login where Email='".$Email."'AND Pass='".$password."' limit 1";
     
     $result=mysql_query($sql);
     
