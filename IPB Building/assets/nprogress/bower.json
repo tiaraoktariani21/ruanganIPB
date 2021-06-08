@@ -9,10 +9,7 @@
     "spinner"
   ],
   "license": "MIT",
-  "main": [
-    "nprogress.js",
-    "nprogress.css"
-  ],
+  "main": ["nprogress.js", "nprogress.css"],
   "scripts": [
     "nprogress.js"
   ],
@@ -26,15 +23,5 @@
     "package.json",
     "test",
     "vendor"
-  ],
-  "homepage": "https://github.com/rstacruz/nprogress",
-  "_release": "0.2.0",
-  "_resolution": {
-    "type": "version",
-    "tag": "v0.2.0",
-    "commit": "d3699f2104f80b4bbb8e2500f7ab939755b2b66b"
-  },
-  "_source": "https://github.com/rstacruz/nprogress.git",
-  "_target": "^0.2.0",
-  "_originalSource": "nprogress"
+  ]
 }
