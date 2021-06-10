@@ -1,4 +1,4 @@
-## Laporan akhir projek
+## Laporan Akhir Projek
 
 **IPB BUILDING**
 
