@@ -88,7 +88,6 @@ Fungsi utama yang dikembangkan dalam aplikasi ini adalah fungsi dalam peminjaman
       4. Tidak dapat memesan gedung di tanggal yang sama
 
 **Saran untuk pengembangan selanjutnya**
-
       1. Menambahkan fitur informasi tentang gedung yang disewakan, seperti fitur Rincian Gedung
       2. Dalam Rincian Gedung tersebut, terdapat informasi seperti gambar gedung, kapasitas, harga sewa, lokasi, nama penanggung jawab gedung, dan contact person penanggung jawab gedung.
       3. Menambahkan fitur untuk upload surat resmi meminjam gedung (apabila terdapat acara khusus dan menyewa gedung khusus)
