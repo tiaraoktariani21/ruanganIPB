@@ -13,7 +13,7 @@ Kelompok 7 Paralel P3
 - Annida Fauziyyatul A (G24180048) as Backend
 
 **Deskripsi singkat aplikasi**
-         IPB Building merupakan suatu aplikasi yang ditujukan untuk membantu mahasiswa yang terkait dalam sistem peminjaman ruangan yang ada di kampus IPB. IPB sendiri menjadi instansi utama dari aplikasi ini. IPB merupakan salah satu perguruan tinggi yang ada terletak di Kota Bogor, Jawa Barat. Kampus IPB lebih dikenal sebagai kampus pertanian terbesar di Indonesia, dan  saat ini menjadi kampus terbaik versi Kemendikbud. Kampus ini dipilih menjadi instansi utama karena pihak pemilik ide aplikasi adalah mahasiswa IPB. Mahasiswa IPB yang terlibat dalam perancangan aplikasi sistem informasi tersebut terdiri dari 4 orang, yaitu 1 pria dan 3 wanita. Keseluruhan merupakan mahasiswa jurusan Meteorologi Terapan angkatan 55. Ide ini muncul karena melihat keresahan banyak mahasiswa saat adanya hal yang mengharuskan adanya peminjaman ruangan. 
+- IPB Building merupakan suatu aplikasi yang ditujukan untuk membantu mahasiswa yang terkait dalam sistem peminjaman ruangan yang ada di kampus IPB. IPB sendiri menjadi instansi utama dari aplikasi ini. IPB merupakan salah satu perguruan tinggi yang ada terletak di Kota Bogor, Jawa Barat. Kampus IPB lebih dikenal sebagai kampus pertanian terbesar di Indonesia, dan  saat ini menjadi kampus terbaik versi Kemendikbud. Kampus ini dipilih menjadi instansi utama karena pihak pemilik ide aplikasi adalah mahasiswa IPB. Mahasiswa IPB yang terlibat dalam perancangan aplikasi sistem informasi tersebut terdiri dari 4 orang, yaitu 1 pria dan 3 wanita. Keseluruhan merupakan mahasiswa jurusan Meteorologi Terapan angkatan 55. Ide ini muncul karena melihat keresahan banyak mahasiswa saat adanya hal yang mengharuskan adanya peminjaman ruangan. 
 
 **User analysis** 
   * User story
@@ -88,6 +88,7 @@ Fungsi utama yang dikembangkan dalam aplikasi ini adalah fungsi dalam peminjaman
       4. Tidak dapat memesan gedung di tanggal yang sama
 
 **Saran untuk pengembangan selanjutnya**
+
       1. Menambahkan fitur informasi tentang gedung yang disewakan, seperti fitur Rincian Gedung
       2. Dalam Rincian Gedung tersebut, terdapat informasi seperti gambar gedung, kapasitas, harga sewa, lokasi, nama penanggung jawab gedung, dan contact person penanggung jawab gedung.
       3. Menambahkan fitur untuk upload surat resmi meminjam gedung (apabila terdapat acara khusus dan menyewa gedung khusus)
