@@ -1,5 +1,4 @@
 ## Laporan akhir projek
-BISA SAVE GA GAES??
 - Nama sistem, Paralel, Kelompok, Nama Asisten Praktikum
 Laporan Akhir Proyek
 M.K. Rekayasa Perangkat Lunak (KOM331)
