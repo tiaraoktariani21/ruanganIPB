@@ -1,6 +1,11 @@
-## Laporan akhir projek
-- Nama sistem, Paralel, Kelompok, Nama Asisten Praktikum
-- Nama anggota kelompok dan masing-masing role
+## Laporan Akhir Projek
+IPB Building - P3 - Indah Puspitasari; Qariatul Khairunnisa
+Nama Anggota:
+Josua Sinaga (G24180003)
+Mufidah Ghina Z. (G24180024) - Backend
+Tiara Oktariani (G24180025) - Frontend
+Annida Fauziyatul A. (G24180048) - Backend
+
 - Deskripsi singkat aplikasi
 - User analysis 
   * User story
