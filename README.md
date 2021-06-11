@@ -1,16 +1,16 @@
-## Laporan akhir projek
+## Laporan Akhir Projek
 
 **IPB BUILDING**
 
 Nama Asisten Praktikum
-- Indah Puspita
-- Qoriatul Khairunnisa
+- Qoriatul Khairunnisa (G62170014) 
+- Indah Puspita        (G64170035)
 
-Kelompok 7 Paralel P3
-- Josua Sinaga		     (G24180003) as Frontend
+Kelompok 7_Paralel P3
+- Josua Sinaga		        (G24180003) as Frontend
 - Mufidah Ghina Z.	     (G24180024) as Backend
 - Tiara Oktariani 	     (G24180025) as Frontend
-- Annida Fauziyyatul A (G24180048) as Backend
+- Annida Fauziyyatul A  (G24180048) as Backend
 
 **Deskripsi singkat aplikasi**
 - IPB Building merupakan suatu aplikasi yang ditujukan untuk membantu mahasiswa yang terkait dalam sistem peminjaman ruangan yang ada di kampus IPB. IPB sendiri menjadi instansi utama dari aplikasi ini. IPB merupakan salah satu perguruan tinggi yang ada terletak di Kota Bogor, Jawa Barat. Kampus IPB lebih dikenal sebagai kampus pertanian terbesar di Indonesia, dan  saat ini menjadi kampus terbaik versi Kemendikbud. Kampus ini dipilih menjadi instansi utama karena pihak pemilik ide aplikasi adalah mahasiswa IPB. Mahasiswa IPB yang terlibat dalam perancangan aplikasi sistem informasi tersebut terdiri dari 4 orang, yaitu 1 pria dan 3 wanita. Keseluruhan merupakan mahasiswa jurusan Meteorologi Terapan angkatan 55. Ide ini muncul karena melihat keresahan banyak mahasiswa saat adanya hal yang mengharuskan adanya peminjaman ruangan. 
