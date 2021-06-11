@@ -80,7 +80,7 @@ Fungsi utama yang dikembangkan dalam aplikasi ini adalah fungsi dalam peminjaman
 **Testing (Test cases)**
   * Positive Cases
       1. Tambah data dapat dilakukan dengan baik oleh mahasiswa sesuai pilihan yang diinginkan 
-      2. Histori data mahasiswa dalam melakukan peminjaman ruangan dapat dilihat dan diedit
+      2. Mahasiswa dalam melakukan peminjaman gedung, dapat melihat histori dan dapat mengedit pesanan
   * Negative Cases (Optional, jika ada jadi nilai tambah)
       1. Tidak dapat login jika tidak menggunakan email IPB
       2. Tidak dapat login jika tidak memasukkan email atau password
@@ -89,9 +89,10 @@ Fungsi utama yang dikembangkan dalam aplikasi ini adalah fungsi dalam peminjaman
 
 **Saran untuk pengembangan selanjutnya**
       1. Menambahkan fitur informasi tentang gedung yang disewakan, seperti fitur Rincian Gedung
-      2. Dalam Rincian Gedung tersebut, terdapat informasi seperti gambar gedung, kapasitas, harga sewa, lokasi, nama penanggung jawab gedung, dan contact person penanggung jawab gedung.
+      2. Dalam Rincian Gedung tersebut, terdapat informasi seperti gambar gedung, kapasitas, harga sewa, lokasi, nama penanggung jawab gedung, contact person penanggung jawab gedung, dan no rekening penanggung jawab
       3. Menambahkan fitur untuk upload surat resmi meminjam gedung (apabila terdapat acara khusus dan menyewa gedung khusus)
       4. Menambahkan fitur profil
+      5. Menambahkan fitur search
 
 ## Catatan
 - Laporan terakhir dikumpul sebelum presentasi projek pada pertemuan-14. Keterlambatan pengumpulan akan mengurangi nilai.
